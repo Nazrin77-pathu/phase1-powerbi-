@@ -1,0 +1,14 @@
+Number of rows: 50 rows (plus 1 header row = 51 total lines)
+
+Number of columns: 6 columns
+
+Column meanings:
+  - Student_ID : Unique ID for each student (S001 to S050)
+  - Name : Student's full name
+  - Gender : Male (M) or Female (F)
+  - Math_Score : Math test score out of 100
+  - Science_Score : Science test score out of 100
+  - Attendance : Attendance percentage (out of 100)
+
+One thing that surprised me:
+Students with attendance above 90% have an average score of 88 in both subjects, while students with attendance below 70% average only 58. That's a 30-point difference! Attendance seems to predict performance more than gender does.
