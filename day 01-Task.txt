@@ -1,0 +1,21 @@
+
+      Assignment: Data from My Daily Life
+   Data1: Phone screen time (per day)
+* Who collects this data: My phone’s operating system (like Digital Wellbeing/Screen Time) and me when I check it.
+* What decision it could help make: I can decide whether to reduce social media use, set app limits, or improve my study–rest balance.
+Data2: Marks in my tests and exams
+* Who collects this data: My subject teachers and the school.
+* What decision it could help make: I can decide which subjects need more practice, whether to join tuition, and how to plan my revision.
+Data3: Daily travel time from home to school/college
+* Who collects this data: I collect it by noting start and end time, and sometimes map apps like Google Maps.
+* What decision it could help make: I can decide what time to leave home, which route is faster, or whether to change my mode of transport.
+Data4: Monthly mobile data usage
+* Who collects this data: My mobile network provider and my phone.
+* What decision it could help make: I can decide if I need a higher or lower data plan, or if I should use WiFi more to save money.
+Data5: Electricity units used at home each month
+* Who collects this data: The electricity board through the meter and bill, and my family if we note the readings.
+* What decision it could help make: We can decide how to reduce electricity use and manage our monthly budget better.
+   My own data question:
+   “If I record my daily study hours and my test marks for one month, what pattern will I see, and what is the best study schedule for me based on this data?”
+   
+   
