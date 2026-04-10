@@ -1,0 +1,16 @@
+1. Duplicate Employee IDs
+
+Problem: The Employee ID column contained duplicate values, which could lead to incorrect analysis and repeated records.
+Fix: I removed duplicate rows based on the Employee ID column using the “Remove Duplicates” feature in Power Query.
+
+
+2. Errors in Salary Column
+
+Problem: The Salary column contained error values, which affected data quality and analysis.
+Fix: I removed error values using the “Remove Errors” option in Power Query to ensure clean and usable data.
+
+
+3. Age Column Data Type Issue
+
+Problem: The Age column was stored as Decimal Number instead of Whole Number, which is not appropriate for age values.
+Fix: I changed the data type of the Age column from Decimal Number to Whole Number using the data type option in Power Query.
