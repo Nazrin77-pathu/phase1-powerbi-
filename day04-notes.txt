@@ -1,0 +1,16 @@
+Day 04 – Power Query (Shaping Data)
+
+1. Split Column (Join Date):
+I split the Join Date column into day, month, and year to make the data more structured and easier to analyze.
+
+
+2. Filter Rows (Remote Work):
+I filtered the dataset to keep only rows where Remote Work is true to focus on employees working from home.
+
+
+3. Custom Column (Bonus):
+I added a Bonus column by multiplying salary by 10% to calculate additional earnings.
+
+
+4. Custom Column (Salary Category):
+I created a Salary Category column using conditions to classify employees as High, Medium, or Low based on their salary.
