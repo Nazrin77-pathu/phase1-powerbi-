@@ -1,0 +1,9 @@
+In this task, I enhanced my Power BI dashboard by adding a slicer using the City column to introduce interactivity across all visuals. The dashboard includes multiple visualizations such as a line chart, treemap, matrix, map, and scatter plot, all of which respond dynamically to the slicer selection.
+
+By filtering the data city-wise, I observed that sales performance varies significantly across different locations. In the overall dataset view, these differences were not clearly visible because the data was aggregated. However, after applying the slicer, it became evident that certain cities, particularly Bangalore and Kochi, contribute a higher share of total sales compared to others.
+
+The line chart revealed distinct sales trends for each city over time, while the treemap highlighted how product categories perform differently in each location. The map visualization provided a clear geographical perspective of sales distribution, and the scatter plot showed variations in the relationship between price and sales across cities. The matrix further supported this analysis by presenting detailed comparisons of products and regions.
+
+Additionally, by selecting multiple cities simultaneously using the Ctrl key, I was able to perform side-by-side comparisons, which helped uncover patterns and differences that were hidden in the full dataset view.
+
+Overall, the use of a slicer significantly improved the interactivity of the dashboard and enabled a deeper level of data exploration, making it easier to identify meaningful insights and trends.
