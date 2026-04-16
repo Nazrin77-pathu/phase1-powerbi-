@@ -1,0 +1,3 @@
+Day 09 Task:
+
+The total sales include all regions, but the South sales show only the sales from the South region, so the filtered value is smaller because it considers only specific data.
