@@ -1,0 +1,7 @@
+This dashboard provides a detailed analysis of the dataset by transforming raw data into meaningful insights using Power BI. Initially, the data was cleaned and prepared using Power Query by removing blank rows, handling duplicates, correcting data types, and creating additional columns for better analysis. Key performance indicators such as total sales, total orders, average sales, and bonus amounts were calculated using DAX measures and displayed using card visuals for quick understanding.
+
+The dashboard includes multiple visualizations to represent the data effectively. A bar chart is used to compare sales across different categories or regions, while a pie chart shows the proportion of each category in total sales. A line chart helps in identifying trends and patterns over time, and a scatter plot is used to analyze the relationship between variables such as sales and profit. A map visualization provides a geographical view of performance across locations.
+
+Additionally, a slicer is included to allow users to filter the data dynamically based on categories, regions, or time periods, making the dashboard interactive and user-friendly. The layout is designed with a clean structure, proper alignment, consistent color themes, and clear titles for each visual to ensure readability and professionalism.
+
+Overall, this dashboard helps in identifying top-performing categories, understanding sales distribution, and analyzing trends, thereby supporting better and faster data-driven decision-making.
