@@ -1,0 +1,5 @@
+1. I removed unnecessary visuals such as duplicate charts, tables, and gauges to reduce clutter and improve focus. This helps users quickly understand key insights without confusion.
+
+2. I applied a consistent color theme using limited colors instead of random colors. This improves visual clarity and makes the dashboard look more professional.
+
+3. I added proper titles and aligned all visuals neatly with sufficient spacing. This enhances readability and ensures that users can easily interpret each visual without difficulty.
